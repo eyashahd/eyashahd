@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm eya kekli
 
 <div align="center">
   
@@ -12,9 +12,9 @@
 ```python
 class WhoAmI:
     def __init__(self):
-        self.name = "[Your Name]"
+        self.name = "eya kekli"
         self.role = "IT Engineering Student"
-        self.university = "[Your University]"
+        self.university = "ESPRIT"
         self.interests = ["Full-Stack Development", "Problem Solving", "Tech Exploration"]
         self.currently_learning = ["AI Agents", "Cloud Computing", "New Frameworks"]
         self.collaboration = "Always open to exciting projects!"
