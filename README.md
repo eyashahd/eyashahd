@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**eyashahd/eyashahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  **`IT Engineering Student | Full-Stack Developer | Tech Explorer`**
+  
+  *Building innovative solutions and exploring the ever-evolving world of technology*
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+```python
+class WhoAmI:
+    def __init__(self):
+        self.name = "[Your Name]"
+        self.role = "IT Engineering Student"
+        self.university = "[Your University]"
+        self.interests = ["Full-Stack Development", "Problem Solving", "Tech Exploration"]
+        self.currently_learning = ["AI Agents", "Cloud Computing", "New Frameworks"]
+        self.collaboration = "Always open to exciting projects!"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together.")
